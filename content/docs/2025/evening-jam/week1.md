@@ -6,7 +6,7 @@ title: "Week #1"
 
 ## Project description
 
-### Project name: Evening Jam 
+### Project name: Light Lethargy 
 
 **Code repository**: https://github.com/fantom73d/evening-jam
 

@@ -92,7 +92,7 @@ Even though our dedicated target audience is casual players without some prerequ
 
 ### Prioritized backlog
 
-*put the link here*
+![prioritized tasks](https://github.com/user-attachments/assets/d7b61bf7-ae9d-4cf2-9bcf-2eb9ce04aab5)
 
 ## Project specific progress
 

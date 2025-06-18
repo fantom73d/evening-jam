@@ -110,7 +110,7 @@ Even though our dedicated target audience is casual players without some prerequ
 ### Narrative
 
 - The core plot is finalised 
-- The prologue for the level 1 and the main character description is drafted
+- The prologue for the level 1 and the main character description are drafted
 
 ### Sound design
 

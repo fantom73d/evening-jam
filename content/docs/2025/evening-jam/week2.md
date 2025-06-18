@@ -132,7 +132,7 @@ Even though our dedicated target audience is casual players without some prerequ
     - [prologue ("пролог" section)](https://docs.google.com/document/d/1Ul-d97mPKF-ZTrO-CHl08b0JdEY6rSsgcE8PJKCeIiA/edit?usp=sharing)
     - [core plot ("нарратив" section)](https://docs.google.com/document/d/1Vo9ULr0iiDlRrvzsPDKi_QGgH3iBMy6o6v2Kx9lyGMw/edit?usp=sharing)
 - Veronika Levasheva:
-    - this report, apart from the backlog and next week plans
+    - this report
     - [demo for the first soundtrack](https://drive.google.com/file/d/1j_lxH5Jn6wQWqhvHfidEOMMCKEOHEVcc/view?usp=sharing)
     - [core plot ("нарратив" section)](https://docs.google.com/document/d/1Vo9ULr0iiDlRrvzsPDKi_QGgH3iBMy6o6v2Kx9lyGMw/edit?usp=sharing)
 - Bulat Shigapov:
@@ -140,7 +140,30 @@ Even though our dedicated target audience is casual players without some prerequ
 
 ## Plan for Next Week
 
-*...*
+### Things to code
+
+- the light bulb and the port for it
+- the sliding bridge
+- the dialogue system
+
+### Narrative and level design
+
+- finalise the prologue and the first level dialogues
+- finish design for the first level
+
+### Visual Design
+
+- work on background locations and details
+- draw some of the npcs 
+
+### Sound design
+
+- finalise the first soundtrack
+
+### Organisation
+
+- group call to discuss the process
+- keep consistent chat communication
 
 ## Confirmation of the code's operability
 
